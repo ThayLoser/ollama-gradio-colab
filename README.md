@@ -5,6 +5,8 @@
 
 A web-based AI chatbot application designed to act as a Computational Thinking (Tư duy tính toán) lecturer for the University of Science, VNU-HCM. This project runs entirely within Google Colab, utilizing **Ollama** to serve the model locally and **Gradio** to provide an interactive, multimodal web interface.
 
+<img width="1918" height="863" alt="Screenshot 2026-04-08 081003" src="https://github.com/user-attachments/assets/848c2735-b22c-4a66-850c-218f28abfc31" />
+
 ## 👨‍💻 Student Information
 * **Full Name:** Nguyễn Anh Thái
 * **Student ID:** 24120224
